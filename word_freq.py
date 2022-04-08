@@ -23,7 +23,7 @@ rank = 0
 for word in word_list:
 	if rank == int(sys.argv[2]):
 		break
-	print(word, sorted_word_dict[word])
+	print("{:<7} {:>4}".format(word, sorted_word_dict[word]))
 	rank = rank + 1
 
 file.close()
