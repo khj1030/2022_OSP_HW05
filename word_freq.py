@@ -2,6 +2,7 @@
 
 import sys
 import re
+import operator
 
 file = open(sys.argv[1], 'r')
 lines = file.readlines()
@@ -14,13 +15,15 @@ for line in lines:
 			count = word_dict.get(word,0)
 			word_dict[word] = count + 1
 
-word_list = word_dict.keys()
+sorted_word_dict = dict(sorted(word_dict.items(), key = lambda item: item[1], reverse = True))
+
+word_list = sorted_word_dict.keys()
 
 rank = 0
 for word in word_list:
 	if rank == int(sys.argv[2]):
 		break
-	print(word, word_dict[word])
+	print(word, sorted_word_dict[word])
 	rank = rank + 1
 
 file.close()
