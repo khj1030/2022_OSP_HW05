@@ -63,5 +63,22 @@ Doctors are also advised to partner with a patient to help them identify achieva
 While in treatment, people may be asked to keep diaries and calendars to document changes in their symptoms, especially if something seems to trigger them.
 A study published in January says one thing that might help people with long Covid is to get vaccinated if they hadn't already. It found that people who got the vaccine were 54% less likely to report headaches, 64% less likely to report fatigue and 68% less likely to report muscle pain than were the unvaccinated.
 The best way to avoid long Covid, doctors say, is to keep from catching Covid-19 in the first place. Some studies suggest that even with a breakthrough infection, the risk of long Covid is much lower for people who are fully vaccinated.
+Pandemic hospitalization rates are at new lows, the vast majority of US counties have low community levels of the coronavirus, and as of March 25, all 50 states have lifted mask requirements.
 
-
+But is there a cost to lifting restrictions and trying to return to a pre-pandemic normal?
+In a new study, researchers predict that the lifting of masking and social-distancing restrictions in March 2022 could lead to resurgences of Covid-19 deaths in most states, based on projections from a simulation model.
+The study also found that delaying lifting restrictions would not prevent surges in deaths for those states, concluding that there is no "magic moment" to lift restrictions.
+The study, published Friday in the Journal of the American Medical Association Health Forum, projected deaths from Covid-19 in each of the 50 states, the District of Columbia and Puerto Rico between March 1 and December 31, 2022. The researchers simulated lifting restrictions at different times in the year and predicted the number of deaths that would follow using current estimates for infection and vaccination rates, while accounting for differences in risk between age groups.
+"There is likely no amount of additional waiting time in any state after which removing [Covid-19 restrictions] will not lead to a rise in morbidity and mortality," the study says.
+In almost every state, it says, lifting restrictions at any point in 2022 would lead to a rebound of peak Covid-19 deaths seen during the Omicron surge due to the high transmissibility of the circulating variant.
+However, when researchers repeated the analysis using the transmissibility of the less-contagious Alpha and Delta variants, they did not see a similar surge in deaths.
+"If we didn't have Omicron, we wouldn't have this problem," said Dr. Benjamin Linas, co-lead author of the study and a professor of medicine at the Boston University School of Medicine.
+Delaying the lifts had a different effect on Covid-19 deaths depending on the state.
+In California, Montana, North Carolina and Oregon, prolonging restrictions by just one month helped flatten the curve of deaths, though at no point could a surge in death rates be prevented. Nevertheless, delaying the lifting of restrictions could help relieve significant hospital burden in these states, the authors wrote.
+The study found that prolonging Covid-19 restrictions caused higher peak incident deaths when the restrictions were to be removed in Massachusetts, New Jersey, New York and Ohio. Linas said that this is probably due to waning immunity in states with lower levels of natural immunity, which is the kind acquired after an infection.
+Meanwhile, in Florida, Illinois, Michigan, Tennessee and Washington, the predicted peak of deaths stayed relatively similar despite modeling delays in lifting restrictions. In these states, prolonging restrictions would not change the disease burden in the community.
+For those states, "the thing to change is that background of vaccination and immunity, and that's the way out," Linas said.
+Deciding when to remove mandates thus requires a cost-benefit analysis, he said. On one hand, some states will have to weigh postponing a surge in deaths, and on the other hand is a return to normalcy.
+"I would like policy-makers to take the study and try to lead the honest discussion we need now, which is to say, what is the goal of our mitigation policies?" Linas said.
+The study uses a simulation model in which several assumptions had to be made, and it can't predict the transmissibility and severity of any future Covid-19 variants. The model also does not account for interstate travel and the role it may play in infection transmission.
+Additionally, it is possible that people will continue to wear masks and socially distance even once state restrictions are lifted, potentially easing the peak of deaths.
