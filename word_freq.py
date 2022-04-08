@@ -11,6 +11,3 @@ for line in lines:
 
 file.close()
 
-
-
-
